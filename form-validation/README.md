@@ -1,4 +1,5 @@
-Requirements: 
+Requirements:
+
     Build a form validator script
         Able to validate required fields
         Able to change field required state depending on other fields state
