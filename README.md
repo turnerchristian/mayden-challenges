@@ -1,2 +1,2 @@
 # mayden-challenges
-Repo containing all of my attempts at the challenges while I was at mayden (soon to be??) academy
+All the challenges I attempted while learning to Programme at Mayden Academy.
