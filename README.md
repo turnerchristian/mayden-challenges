@@ -5,7 +5,7 @@ All the challenges I attempted while learning to Programme at Mayden Academy.
 Challenge requirements:
 Prints the numbers 0-1000-0 (every number inbetween), with 1000 only once and each number on a new line in:
 
- 	1.The fewest PHP characters you can
+ 	The fewest PHP characters you can
 	
 
 # [Rails and Posts](https://github.com/turnerror/mayden-challenges/tree/master/fence-challenge)
